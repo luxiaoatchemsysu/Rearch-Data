@@ -1,0 +1,1 @@
+The data from the base simulation and the other sensitivity simulations include the selected region domain-average variables respectively in 2013, 2015, and 2018. Where qc represents cloud water content, qd represents cloud droplet number, re represent radar reflecitvity.
